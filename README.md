@@ -57,7 +57,7 @@ Bộ tài liệu hướng dẫn xây dựng hệ thống giám sát (Observabili
 | 03 | [Install Rancher](./03%20-%20Install%20Rancher.md) | Cài Ingress Nginx, Cert-Manager, Rancher |
 | 04 | [Install Prometheus](./04%20-%20Install%20Prometheus.md) | Cài kube-prometheus-stack (Prometheus + Grafana + Alertmanager) |
 | 05 | [Install Node Exporter](./05%20-%20Install%20Node%20Exporter.md) | Expose Node Exporter ra ngoài |
-| 06 | [Monitor ShoeHub](./06%20-%20Monitor%20ShoeHub.md) | Ví dụ ServiceMonitor cho dự án ShoeHub |
+| 06 | [Monitor WineApp ServiceMonitor](./06%20-%20Monitor%20WineApp%20ServiceMonitor.md) | Kết nối Frontend/Backend/MongoDB với Prometheus |
 | 07 | [Deploy and Monitor WineApp](./07%20-%20Deploy%20and%20Monitor%20WineApp.md) | Triển khai WineApp + kết nối Prometheus |
 | 08 | [Grafana Best Practices](./08%20-%20Grafana%20Best%20Practices.md) | Triết lý thiết kế Dashboard (USE, RED, Golden Signals) |
 | 09 | [WineApp Dashboard Guide](./09%20-%20WineApp%20Dashboard%20Guide.md) | Hướng dẫn tạo Dashboard WineApp từng bước |
