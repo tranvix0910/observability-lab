@@ -1,7 +1,3 @@
-# Nested git repos (separate projects with their own repos)
-wineapp-backend/
-wineapp-frontend/
-
 # Sensitive files
 .env
 *.env.local
